@@ -15,3 +15,10 @@ FlowBetPalace is the sports betting hub powered by Flow Blockchain. Users can be
 
 ## What makes FlowBetPalace unique
 We integrate on all our matches a sidetab which showcases NFTs from NBA TopShot, La Liga Golazos, NFLAllDay, MotoGP-Ignition and UFCStrike. Users can browse through the NFTs, bet for their favorite team and buy an NFT from their team too. We have a unique user experience which makes it easy for anyone to bet, view results, and collect rewards on the application.
+
+## Cadence Technical Summary
+[*To get an in-depth review, visit the Technical Docs*](https://thetatix.gitbook.io)
+
+All Cadence contracts, scripts and transactions are in the [Cadence](https://github.com/flowBetPalace/cadence) folder 
+
+
