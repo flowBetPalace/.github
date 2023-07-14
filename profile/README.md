@@ -10,8 +10,8 @@
 
 [*Video Demo*]()
 
-# FlowBetPalace Dapp
+## FlowBetPalace Dapp
 FlowBetPalace is the sports betting hub powered by Flow Blockchain. Users can bet on the result of sports matches across different categories such as Basketball, Soccer, Football, MotoGP and UFC. All transactions and data saving is made on-chain to ensure that they are transparent. Once the user bets on its desired match, the bet will be available at the MyBets tabs, where the user will be able to redeem its reward in case the bet is won. 
 
-# What makes FlowBetPalace unique
+## What makes FlowBetPalace unique
 We integrate on all our matches a sidetab which showcases NFTs from NBA TopShot, La Liga Golazos, NFLAllDay, MotoGP-Ignition and UFCStrike. Users can browse through the NFTs, bet for their favorite team and buy an NFT from their team too. We have a unique user experience which makes it easy for anyone to bet, view results, and collect rewards on the application.
