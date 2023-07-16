@@ -2,7 +2,7 @@
 
 # FlowBetPalace
 
-[*Website*](https://thetatix.vercel.app)
+[*Website*](https://flowbetpalace.vercel.app/)
 
 [*Technical Docs*](https://thetatix.gitbook.io)
 
