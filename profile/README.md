@@ -6,7 +6,7 @@
 
 [*Technical Docs*](https://flow-hackaton.gitbook.io/flowbetpalace/)
 
-[*Pitch Deck*](https://drive.google.com/file/d/1AvDPJF-pfYB6fgyArscnNoKp5nD2oaA9/view?usp=sharing)
+[*Pitch Deck*](https://drive.google.com/file/d/1kGT_JfiBvWPh1m3iQOGMPaqLoPFuQsxv/view?usp=sharing)
 
 [*Video Demo*](https://youtu.be/TcMV0nDdQhs)
 
